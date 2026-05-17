@@ -12,6 +12,6 @@ let cell2 = newRow.insertCell(1);
   // values add
 cell1.innerHTML = "New Cell1";
 cell2.innerHTML = "New Cell2";
-}
+
   
 }
